@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PizzaOrderApp</string>
+    <!-- strings.xml -->
+    <string-array name="pizza_types">
+        <item>Margherita</item>
+        <item>Pepperoni</item>
+        <item>Hawaiian</item>
+        <item>Veggie</item>
+    </string-array>
+
+</resources>
